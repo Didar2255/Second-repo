@@ -1,0 +1,9 @@
+.blog{
+    color: crimson;
+    font-size: medium;
+
+}
+div{
+    border: 2px solid darkgreen;
+    border-bottom-left-radius: 10px;
+}
