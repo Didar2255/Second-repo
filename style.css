@@ -14,7 +14,8 @@ ul{
 }
 h1{
     text-align: center;
-    color: lightseagreen;
+    color: rgb(4, 49, 47);
+    background-color: darkgrey;
 }
 h2{
     text-align: center;
@@ -30,4 +31,12 @@ img{
 }
 hr{
     height: 5px;
+}
+h5{
+    text-align: center;
+    color: yellowgreen;
+    background-color: rgb(58, 38, 38);
+}
+ol{
+    color: darkgreen;
 }
