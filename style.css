@@ -6,4 +6,6 @@
 div{
     border: 2px solid darkgreen;
     border-bottom-left-radius: 10px;
+    margin: 5px;
+    
 }
