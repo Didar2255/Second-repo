@@ -7,5 +7,16 @@ div{
     border: 2px solid darkgreen;
     border-bottom-left-radius: 10px;
     margin: 5px;
-    
+    border-top-right-radius: 10px;
+}
+ul{
+    background-color: rgb(11, 123, 175);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: rgb(243, 8, 153);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
